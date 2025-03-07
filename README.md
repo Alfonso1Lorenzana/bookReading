@@ -16,5 +16,7 @@
 
 # In addition:
 
-#### Used Stack Overflow
+#### Used Stack Overflow, TA's that we have as well as Teaching Assistants
+#### Also, students who when we have breakout can discuss certain things, with our code.
+#### What works and what doesn't, some collaboration most verbal sharing of ideas.
 
