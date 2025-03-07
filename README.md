@@ -6,5 +6,15 @@
 
 #### There will also be a `Search for Books`, `See Your Books`, `Logout` which are all buttons.
 
+# Using:
 
+#### 1. `Visual Studio`
+#### 2. `Github`
+#### 3. `MongoDB`
+#### 4. `Apollo Server`
+#### 5. `Screencastify`
+
+# In addition:
+
+#### Used Stack Overflow
 
